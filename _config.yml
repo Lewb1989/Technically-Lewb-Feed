@@ -1,6 +1,6 @@
-
 title: Technically Lewb
-description: Weekly tech and gaming news with a dash of Lewb style.
-baseurl: ""
+description: Weekly tech & gaming updates by Lewb1989.
+baseurl: "" # this means root
 url: "https://lewb1989.github.io/Technically-Lewb-Feed"
 theme: minima
+plugins: []
