@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Technically Lewb</title>
+    <link>https://yourwebsite.com/technically-lewb</link>
+    <description>Weekly fun and informative takes on the latest in tech and gaming, from GTA leaks to wild new gadgets.</description>
+    <language>en-gb</language>
+    <pubDate>Mon, 22 Apr 2025 12:00:00 +0000</pubDate>
+    <lastBuildDate>Mon, 22 Apr 2025 12:00:00 +0000</lastBuildDate>
+    <managingEditor>lewis@yourdomain.com</managingEditor>
+    <webMaster>lewis@yourdomain.com</webMaster>
+
+    <item>
+      <title>Week 1: GTA Leaks, CoD Goes Hollywood, and a VR Suit That Makes You Sweat</title>
+      <link>https://yourwebsite.com/technically-lewb/week1</link>
+      <guid>https://yourwebsite.com/technically-lewb/week1</guid>
+      <pubDate>Mon, 22 Apr 2025 12:00:00 +0000</pubDate>
+      <description><![CDATA[
+        <h2>1. GTA 6 Leaks... Again?</h2>
+        <p>Just when Rockstar thought they plugged the leaks...</p>
+
+        <h2>2. Call of Duty: Black Ops Gulf War – Full Reveal Incoming</h2>
+        <p>The worst-kept secret in gaming might finally get its moment...</p>
+
+        <h2>3. Tech Spotlight: The VR Suit That Makes You Sweat</h2>
+        <p>A startup called OWO has created a haptic feedback suit...</p>
+
+        <h2>4. Bonus Bytes:</h2>
+        <ul>
+          <li>Apple’s AI assistant rumors are heating up...</li>
+          <li>Tesla’s “Autopark Anywhere” update...</li>
+          <li>Steam Spring Sale just ended...</li>
+        </ul>
+
+        <p><strong>Stay Technically Lewb.</strong></p>
+      ]]></description>
+    </item>
+  </channel>
+</rss>
